@@ -1,184 +1,148 @@
+
 # GNANOU KOKOU KELVIN AMBROISE
 
-**Étudiant en génie informatique | Ingénierie logicielle | Intelligence artificielle**
+**Computer Engineering Student | Software Engineering | Systems Programming**
 
-> Je construis des bases solides en programmation, structures de données, qualité logicielle et outillage de développement, avec une orientation progressive vers l’intelligence artificielle et les systèmes robustes.
+Focused on building strong foundations in low-level programming, software engineering, and scalable systems.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dann-H7&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dann-H7&layout=compact&theme=radical)
+
+![C](https://img.shields.io/badge/C-Language-blue)
+![C++](https://img.shields.io/badge/C++-Programming-informational)
+![Python](https://img.shields.io/badge/Python-Programming-green)
+![Linux](https://img.shields.io/badge/Linux-WSL-black)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
 
 ---
 
-## À propos de moi
+## 🚀 About Me
 
-Je suis **Kelvin Gnanou**, étudiant en génie informatique, avec une orientation claire vers l’**ingénierie logicielle** et l’amélioration continue de mes compétences techniques.
+Computer engineering student focused on building strong foundations in **software engineering**, **data structures**, **algorithms**, and **system-level thinking**.
 
-Je développe une approche rigoureuse du code : **propre, modulaire, lisible, maintenable et pensée pour évoluer**.  
-Je m’intéresse particulièrement à la conception de solutions efficaces, à la structuration des projets et à la maîtrise des outils modernes de développement.
+I develop code with a strong emphasis on:
+- modular architecture,
+- maintainability,
+- performance awareness,
+- clean engineering practices,
+- scalable and reproducible development environments.
 
-Mon objectif est de construire un profil solide de développeur logiciel, capable de travailler proprement dans un environnement professionnel et d’évoluer vers des domaines avancés comme le **backend**, les **systèmes** et l’**intelligence artificielle**.
+My progression is currently oriented toward **backend systems** and **artificial intelligence**.
 
 ---
 
-## Compétences techniques
+## 🧠 Core Skills
 
-### Langages
+### Languages
+Python · C · C++ · JavaScript · SQL · HTML/CSS
 
-- Python
-- JavaScript
-- C
-- C++
-- SQL
-- HTML / CSS
+### CS Fundamentals
+- Data Structures & Algorithms
+- Complexity Analysis
+- Problem Solving
+- Logic & algorithmic thinking
 
-### Algorithmique et bases fondamentales
+### Tools & Environment
+Linux (WSL / Ubuntu) · Git / GitHub · VS Code · GCC / Clang · Makefile · GDB · MSYS2
 
-- Structures de données
-- Analyse de complexité
-- Résolution de problèmes
-- Logique algorithmique
-
-### Environnement & toolchain
-
-- Linux (WSL / Ubuntu)
-- Git / GitHub
-- MSYS2
-- VS Code
-- Make / Makefile
-- Clang / GCC
-
-### Compilation, debug et qualité logicielle
-
-- GDB / LLDB
-- Clangd (LSP)
-- Gestion des warnings
-- Linting : Ruff, ESLint
-- Formatting : Black, Clang-Format, Prettier
-- Analyse statique : Clang-Tidy
-- Organisation modulaire des projets
-
-### Développement Python
-
-- Environnements virtuels
-- Structuration de scripts et projets
+### Software Quality
 - Debugging
-- Automatisation de tâches
-
-### Web
-
-- HTML sémantique
-- CSS responsive
-- JavaScript frontend
-- Manipulation du DOM
-
-### Data Base
-
-- SQL (MySQL)
+- Code formatting (Black, Clang-Format, Prettier)
+- Static analysis (Clang-Tidy)
+- Linting (Ruff, ESLint)
+- Modular project design
+- Warning management and refactoring
 
 ---
 
-## Projets personnels
+## 📌 Featured Projects
 
-### Environnement de développement complet
+### 🔹 [Data Structures in C](https://github.com/dann-H7/data-struct)
+Low-level implementations of fundamental data structures focused on memory management and modular software design.
 
-- Configuration d’une toolchain complète pour C/C++
-- Intégration d’outils de qualité et de débogage
-- Standardisation des projets avec `Makefile`, `.vscode/` et configurations dédiées
-- Mise en place d’un environnement reproductible et cohérent
+Includes:
+- Linked Lists
+- Stacks / Queues
+- Trees
+- Memory management
 
-### Projets de programmation
-
-- Implémentation et amélioration de structures de données en C / C++
-- Développement de scripts Python utiles et structurés
-- Création d’interfaces interactives avec HTML / CSS / JavaScript
-- Résolution d’exercices algorithmiques en C, Python et JavaScript
-- Versionnement systématique avec Git
-
-### Amélioration continue
-
-- Relecture et refactoring de code existant
-- Réduction des warnings, erreurs et dettes techniques
-- Travail orienté maintenabilité et clarté
-- Montée progressive vers des standards professionnels
+**Tech:** C · Makefile · GCC · GDB
 
 ---
 
-## Compétences transversales
+### 🔹 Dev Environment Engineering
+Structured C/C++ development environment focused on reproducibility, tooling, debugging, and code quality.
 
-- Lecture rapide et compréhension de documentation technique
-- Résolution de problèmes avec approche analytique
-- Apprentissage autonome structuré
-- Organisation et structuration du code
-- Capacité à diagnostiquer et corriger des erreurs
-- Adaptation rapide à de nouveaux outils et environnements
-- Discipline technique et régularité
-- Mise en place d’environnements reproductibles
-- Standardisation des pratiques de développement
-- Bases solides en algèbre élémentaire, analyse et probabilité
+Includes:
+- Custom toolchain setup
+- Makefile-based build system
+- Debug + lint + formatting pipeline
+- Modular project organization
+
+**Tech:** Linux · GCC · Clang · Makefile · VS Code
 
 ---
 
-## Formation
+### 🔹 Python Utilities & Automation
+Small structured scripts designed to automate repetitive tasks and improve workflow efficiency.
 
-**Génie Informatique (en cours)**
-
-Formation axée sur :
-
-- Programmation
-- Algorithmique
-- Outils de développement
-- Mathématiques appliquées
-- Logique informatique
-- Résolution de problèmes
+**Tech:** Python · CLI · File handling
 
 ---
 
-## Langues
+### 🔹 Web Interfaces
+Simple frontend interfaces built to practice DOM manipulation and responsive layouts.
 
-- **Français** : Courant
-- **Anglais** : Technique, lecture et compréhension de documentation
-
----
-
-## Objectif professionnel
-
-Construire un profil d’ingénieur logiciel capable de :
-
-- concevoir des systèmes propres et maintenables,
-- maîtriser les outils modernes de développement,
-- produire un code rigoureux et documenté,
-- évoluer vers des domaines avancés comme le backend, les systèmes et l’IA.
+**Tech:** HTML · CSS · JavaScript
 
 ---
 
-## Ce que vous trouverez sur ce profil
+## ⚡ Currently Working On
 
-- Des projets techniques structurés
-- Du code orienté apprentissage sérieux
-- Une progression visible vers des standards professionnels
-- Une logique de construction durable plutôt que du code jetable
-
----
-
-## Présence en ligne
-
-- **GitHub** : [github.com/dann-H7](https://github.com/kelvin-gnanou)
-- **LinkedIn** : [linkedin.com/in/kelvin-gnanou](https://www.linkedin.com/in/kelvin-gnanou-a1755b40b/)
-- **Portfolio** : 
-- **HackerRank** : 
+- Memory management in c
+- Data structure implementations in c
+- Linux development environment optimization
+- Python automation tools
+- Backend engineering fundamentals
 
 ---
 
-## Centres d’intérêt
+## 📈 Focus Areas
 
-- Ingénierie logicielle
-- Intelligence artificielle
-- Systèmes Linux
-- Tooling et optimisation des environnements
-- Veille technique continue
+- Backend systems
+- Algorithms & performance
+- Low-level programming
+- Software architecture
+- AI fundamentals
+- Clean code and maintainability
 
 ---
 
-## Vision
+## 🛠 Engineering Philosophy
 
-Je ne cherche pas seulement à écrire du code.  
-Je cherche à **comprendre, construire et progresser avec méthode**.
+- Build clean before building complex
+- Understand fundamentals deeply
+- Prefer maintainable systems over quick hacks
+- Focus on reproducibility and tooling
+- Learn by building and improving continuously
 
-Ce dépôt sert de vitrine professionnelle et évoluera au fil de mes projets.
+---
+
+## 🎯 Goal
+
+To become a software engineer capable of designing **clean, scalable, and efficient systems**, with strong foundations in algorithms, software quality, and system design.
+
+---
+
+## 📫 Links
+
+- GitHub: [dann-H7](https://github.com/dann-H7)
+- LinkedIn: [kelvin-gnanou](https://www.linkedin.com/in/kelvin-gnanou-a1755b40b/)
+
+---
+
+## 🌍 Vision
+
+Building engineering discipline first.  
+Everything else comes after.
