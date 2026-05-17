@@ -5,9 +5,9 @@
 
 Focused on building strong foundations in low-level programming, software engineering, and scalable systems.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dann-H7&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin-gnanou&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dann-H7&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-gnanou&layout=compact&theme=github_dark)
 
 ![C](https://img.shields.io/badge/C-Language-blue)
 ![C++](https://img.shields.io/badge/C++-Programming-informational)
@@ -137,7 +137,7 @@ To become a software engineer capable of designing **clean, scalable, and effici
 
 ## 📫 Links
 
-- GitHub: [dann-H7](https://github.com/dann-H7)
+- GitHub: [dann-H7](https://github.com/kelvin-gnanou)
 - LinkedIn: [kelvin-gnanou](https://www.linkedin.com/in/kelvin-gnanou-a1755b40b/)
 
 ---
