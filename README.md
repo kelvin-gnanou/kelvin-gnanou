@@ -137,7 +137,7 @@ To become a software engineer capable of designing **clean, scalable, and effici
 
 ## 📫 Links
 
-- GitHub: [dann-H7](https://github.com/kelvin-gnanou)
+- GitHub: [kelvin-gnanou](https://github.com/kelvin-gnanou)
 - LinkedIn: [kelvin-gnanou](https://www.linkedin.com/in/kelvin-gnanou-a1755b40b/)
 
 ---
