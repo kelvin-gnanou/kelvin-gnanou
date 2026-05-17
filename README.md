@@ -5,9 +5,9 @@
 
 Focused on building strong foundations in low-level programming, software engineering, and scalable systems.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin-gnanou&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kelvin-gnanou&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-gnanou&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kelvin-gnanou&layout=compact&theme=github_dark)
 
 ![C](https://img.shields.io/badge/C-Language-blue)
 ![C++](https://img.shields.io/badge/C++-Programming-informational)
