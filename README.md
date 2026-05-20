@@ -1,5 +1,5 @@
 
-# GNANOU KOKOU KELVIN AMBROISE
+# GNANOU KELVIN
 
 **Computer Engineering Student | Software Engineering | Systems Programming**
 
@@ -9,11 +9,21 @@ Focused on building strong foundations in low-level programming, software engine
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kelvin-gnanou&layout=compact&theme=github_dark)
 
-![C](https://img.shields.io/badge/C-Language-blue)
-![C++](https://img.shields.io/badge/C++-Programming-informational)
-![Python](https://img.shields.io/badge/Python-Programming-green)
-![Linux](https://img.shields.io/badge/Linux-WSL-black)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+## Tech Stack
+
+![C](https://img.shields.io/badge/C-Low_Level_Access-blue)
+![Python](https://img.shields.io/badge/Python-AI_&_Automation-3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-Web_Development-F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1)
+
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-Frontend-1572B6)
+
+![Linux](https://img.shields.io/badge/Linux-Environment-FCC624)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717)
+
+![Algorithms](https://img.shields.io/badge/Algorithms-Problem_Solving-FF6F00)
 
 ---
 
@@ -35,7 +45,7 @@ My progression is currently oriented toward **backend systems** and **artificial
 ## 🧠 Core Skills
 
 ### Languages
-Python · C · C++ · JavaScript · SQL · HTML/CSS
+Python · C · JavaScript · SQL · HTML/CSS
 
 ### CS Fundamentals
 - Data Structures & Algorithms
@@ -44,7 +54,7 @@ Python · C · C++ · JavaScript · SQL · HTML/CSS
 - Logic & algorithmic thinking
 
 ### Tools & Environment
-Linux (WSL / Ubuntu) · Git / GitHub · VS Code · GCC / Clang · Makefile · GDB · MSYS2
+Linux (WSL / Ubuntu / bash) · Git / GitHub · VS Code · GCC / Clang · Makefile · GDB · MSYS2
 
 ### Software Quality
 - Debugging
@@ -62,12 +72,12 @@ Linux (WSL / Ubuntu) · Git / GitHub · VS Code · GCC / Clang · Makefile · GD
 Low-level implementations of fundamental data structures focused on memory management and modular software design.
 
 Includes:
-- Linked Lists
 - Stacks / Queues
+- Linked Lists
 - Trees
 - Memory management
 
-**Tech:** C · Makefile · GCC · GDB
+**Tech:** C · Makefile · clang · GDB
 
 ---
 
@@ -137,8 +147,10 @@ To become a software engineer capable of designing **clean, scalable, and effici
 
 ## 📫 Links
 
-- GitHub: [kelvin-gnanou](https://github.com/kelvin-gnanou)
-- LinkedIn: [kelvin-gnanou](https://www.linkedin.com/in/kelvin-gnanou-a1755b40b/)
+- [GitHub](https://github.com/kelvin-gnanou)
+- [LinkedIn](https://www.linkedin.com/in/kelvin-gnanou-a1755b40b/)
+- [Portfolio](https://kelvin-gnanou.github.io/)
+- [Email](kelvin.gnanou.dev@gmail.com)
 
 ---
 
