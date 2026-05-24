@@ -58,6 +58,7 @@ Linux (WSL / Ubuntu / bash) · Git / GitHub · VS Code · GCC / Clang · Makefil
 
 ### Software Quality
 - Debugging
+- tests (pytest)
 - Code formatting (Black, Clang-Format, Prettier)
 - Static analysis (Clang-Tidy)
 - Linting (Ruff, ESLint)
@@ -68,7 +69,7 @@ Linux (WSL / Ubuntu / bash) · Git / GitHub · VS Code · GCC / Clang · Makefil
 
 ## 📌 Featured Projects
 
-### 🔹 [Data Structures in C](https://github.com/dann-H7/data-struct)
+### 🔹 [Data Structures in C](https://github.com/kelvin-gnanou/data-structures-c)
 Low-level implementations of fundamental data structures focused on memory management and modular software design.
 
 Includes:
@@ -112,8 +113,10 @@ Simple frontend interfaces built to practice DOM manipulation and responsive lay
 
 - Memory management in c
 - Data structure implementations in c
+- Data structure implementations in python
 - Linux development environment optimization
-- Python automation tools
+- Python automation tools (create, delete projects on one click)
+- Linux (bash) script automatisation, manage folders and files
 - Backend engineering fundamentals
 
 ---
