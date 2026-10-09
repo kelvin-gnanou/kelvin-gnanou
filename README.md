@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-cover.png" width="100%" alt="Abstract computational design">
+  <img src="assets/a.png" width="100%" alt="Abstract computational design">
 </p>
 
 # GNANOU KELVIN
