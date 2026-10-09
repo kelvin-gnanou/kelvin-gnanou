@@ -1,163 +1,68 @@
-
 # GNANOU KELVIN
 
-**Computer Engineering Student | Software Engineering | Systems Programming**
+**Computer Engineering | AI & Data**
 
-Focused on building strong foundations in low-level programming, software engineering, and scalable systems.
+From algorithms and systems to intelligent solutions.
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kelvin-gnanou&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvin-gnanou\&show_icons=true\&theme=github_dark)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kelvin-gnanou&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-gnanou\&layout=compact\&theme=github_dark)
+
+---
 
 ## Tech Stack
 
-![C](https://img.shields.io/badge/C-Low_Level_Access-blue)
-![Python](https://img.shields.io/badge/Python-AI_&_Automation-3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web_Development-F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-Database-4479A1)
+### Programming Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-Frontend-1572B6)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 
-![Linux](https://img.shields.io/badge/Linux-Environment-FCC624)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717)
+### Web Development
 
-![Algorithms](https://img.shields.io/badge/Algorithms-Problem_Solving-FF6F00)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
----
+### Development Environment & Tools
 
-## 🚀 About Me
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 
-Computer engineering student focused on building strong foundations in **software engineering**, **data structures**, **algorithms**, and **system-level thinking**.
+### Computer Science Fundamentals
 
-I develop code with a strong emphasis on:
-- modular architecture,
-- maintainability,
-- performance awareness,
-- clean engineering practices,
-- scalable and reproducible development environments.
-
-My progression is currently oriented toward **backend systems** and **artificial intelligence**.
+Data Structures · Algorithms · Complexity Analysis · Memory Management
 
 ---
 
-## 🧠 Core Skills
+About Me
 
-### Languages
-Python · C · JavaScript · SQL · HTML/CSS
+Interested in Artificial Intelligence, Data, and Software Engineering.
 
-### CS Fundamentals
-- Data Structures & Algorithms
-- Complexity Analysis
-- Problem Solving
-- Logic & algorithmic thinking
-
-### Tools & Environment
-Linux (WSL / Ubuntu / bash) · Git / GitHub · VS Code · GCC / Clang · Makefile · GDB · MSYS2
-
-### Software Quality
-- Debugging
-- tests (pytest)
-- Code formatting (Black, Clang-Format, Prettier)
-- Static analysis (Clang-Tidy)
-- Linting (Ruff, ESLint)
-- Modular project design
-- Warning management and refactoring
+Developing strong foundations in algorithms, programming, and computer systems, with a long-term interest in intelligent and efficient software.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔹 [Data Structures in C](https://github.com/kelvin-gnanou/data-structures-c)
-Low-level implementations of fundamental data structures focused on memory management and modular software design.
+### [Data Structures in C](https://github.com/kelvin-gnanou/data-structures-c)
 
-Includes:
-- Stacks / Queues
-- Linked Lists
-- Trees
-- Memory management
+Implementations of fundamental data structures with an emphasis on modular design, memory management, and code quality.
 
-**Tech:** C · Makefile · clang · GDB
+**Tech:** C · Makefile · GCC/Clang
 
----
+### [Data Structures in Python](https://github.com/kelvin-gnanou/data-structures-py)
 
-### 🔹 Dev Environment Engineering
-Structured C/C++ development environment focused on reproducibility, tooling, debugging, and code quality.
+Implementations of fundamental data structures to explore algorithmic concepts, problem-solving, and software design.
 
-Includes:
-- Custom toolchain setup
-- Makefile-based build system
-- Debug + lint + formatting pipeline
-- Modular project organization
-
-**Tech:** Linux · GCC · Clang · Makefile · VS Code
+**Tech:** Python · Algorithms · Data Structures
 
 ---
 
-### 🔹 Python Utilities & Automation
-Small structured scripts designed to automate repetitive tasks and improve workflow efficiency.
+## Connect
 
-**Tech:** Python · CLI · File handling
-
----
-
-### 🔹 Web Interfaces
-Simple frontend interfaces built to practice DOM manipulation and responsive layouts.
-
-**Tech:** HTML · CSS · JavaScript
-
----
-
-## ⚡ Currently Working On
-
-- Memory management in c
-- Data structure implementations in c
-- Data structure implementations in python
-- Linux development environment optimization
-- Python automation tools (create, delete projects on one click)
-- Linux (bash) script automatisation, manage folders and files
-- Backend engineering fundamentals
-
----
-
-## 📈 Focus Areas
-
-- Backend systems
-- Algorithms & performance
-- Low-level programming
-- Software architecture
-- AI fundamentals
-- Clean code and maintainability
-
----
-
-## 🛠 Engineering Philosophy
-
-- Build clean before building complex
-- Understand fundamentals deeply
-- Prefer maintainable systems over quick hacks
-- Focus on reproducibility and tooling
-- Learn by building and improving continuously
-
----
-
-## 🎯 Goal
-
-To become a software engineer capable of designing **clean, scalable, and efficient systems**, with strong foundations in algorithms, software quality, and system design.
-
----
-
-## 📫 Links
-
-- [GitHub](https://github.com/kelvin-gnanou)
-- [LinkedIn](https://www.linkedin.com/in/kelvin-gnanou-a1755b40b/)
-- [Portfolio](https://kelvin-gnanou.github.io/)
-- [Email](mailto:kelvin.gnanou.dev@gmail.com)
-
----
-
-## 🌍 Vision
-
-Building engineering discipline first.  
-Everything else comes after.
+[GitHub](https://github.com/kelvin-gnanou) · [LinkedIn](https://www.linkedin.com/in/kelvin-gnanou-a1755b40b/) · [Portfolio](https://kelvin-gnanou.github.io/) · [Email](mailto:kelvin.gnanou.dev@gmail.com)
