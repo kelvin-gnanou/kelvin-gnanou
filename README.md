@@ -43,7 +43,7 @@ Data Structures · Algorithms · Complexity Analysis · Memory Management
 
 ---
 
-About Me
+# About Me
 
 Interested in Artificial Intelligence, Data, and Software Engineering.
 
