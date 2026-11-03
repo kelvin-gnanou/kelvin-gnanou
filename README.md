@@ -8,9 +8,9 @@
 
 From algorithms and systems to intelligent solutions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvin-gnanou\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvin-gnanou&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-gnanou\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-gnanou&layout=compact&theme=github_dark)
 
 ---
 
@@ -45,7 +45,7 @@ Data Structures · Algorithms · Complexity Analysis · Memory Management
 
 # About Me
 
-Interested in Artificial Intelligence, Data, and Software Engineering.
+Interested in Artificial Intelligence, and Data.
 
 Developing strong foundations in algorithms, programming, and computer systems, with a long-term interest in intelligent and efficient software.
 
@@ -58,12 +58,6 @@ Developing strong foundations in algorithms, programming, and computer systems, 
 Implementations of fundamental data structures with an emphasis on modular design, memory management, and code quality.
 
 **Tech:** C · Makefile · GCC/Clang
-
-### [Data Structures in Python](https://github.com/kelvin-gnanou/data-structures-py)
-
-Implementations of fundamental data structures to explore algorithmic concepts, problem-solving, and software design.
-
-**Tech:** Python · Algorithms · Data Structures
 
 ---
 
