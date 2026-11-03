@@ -10,7 +10,15 @@ From algorithms and systems to intelligent solutions.
 
 ---
 
-## Tech Stack
+## Professional Profile
+
+Computer Engineering student 
+interested in understanding complex systems and developing efficient computational solutions, 
+with a focus on Artificial Intelligence and Data Science.
+
+---
+
+## Technical Skills
 
 ### Programming Languages
 
@@ -26,34 +34,45 @@ From algorithms and systems to intelligent solutions.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
-### Development Environment & Tools
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4169E1?style=flat\&logo=mysql\&logoColor=white)
+
+### Development Tools & Environment
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
+![Clang](https://img.shields.io/badge/Clang-262D3A?style=flat\&logo=llvm\&logoColor=white)
 
 ### Computer Science Fundamentals
 
-Data Structures · Algorithms · Complexity Analysis · Memory Management
+Data Structures · Algorithms · Complexity Analysis · Object-Oriented Programming · Memory Management
 
 ---
 
-# About Me
+## Education
 
-Interested in Artificial Intelligence, and Data.
+**Mohammadia School of Engineers (EMI)**
+Computer Engineering | 2026 – Present
 
-Developing strong foundations in algorithms, programming, and computer systems, with a long-term interest in intelligent and efficient software.
+**Faculty of Sciences and Technology of Fez (FST)**
+DEUST – Mathematics and Computer Science | 2024 – 2026
 
 ---
 
-## Featured Projects
+## Projects
 
 ### [Data Structures in C](https://github.com/kelvin-gnanou/data-structures-c)
 
-Implementations of fundamental data structures with an emphasis on modular design, memory management, and code quality.
+Implementation of fundamental data structures with an emphasis on modular design, memory management, and code quality.
 
-**Tech:** C · Makefile · GCC/Clang
+**Technologies:** C · Makefile · GCC/Clang
+
+---
+
+## Areas of Interest
+
+Artificial Intelligence · Data Science · Algorithms · Optimization · Computational Methods
 
 ---
 
