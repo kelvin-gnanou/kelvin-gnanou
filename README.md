@@ -8,10 +8,6 @@
 
 From algorithms and systems to intelligent solutions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvin-gnanou&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-gnanou&layout=compact&theme=github_dark)
-
 ---
 
 ## Tech Stack
