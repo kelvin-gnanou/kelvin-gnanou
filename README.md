@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/a.png" width="100%" alt="Abstract computational design">
+  <img src="assets/a.png" width="100%" alt="kelvin.gnanou.dev@gmail.com">
 </p>
 
 # GNANOU KELVIN
@@ -62,17 +62,18 @@ DEUST – Mathematics and Computer Science | 2024 – 2026
 
 ## Projects
 
-### [Data Structures in C](https://github.com/kelvin-gnanou/data-structures-c)
+### [Personal Portfolio](https://kelvin-gnanou.github.io)
 
-Implementation of fundamental data structures with an emphasis on modular design, memory management, and code quality.
+Personal portfolio showcasing projects, technical skills, and professional work.
 
-**Technologies:** C · Makefile · GCC/Clang
+**Technologies:** HTML5 · CSS3 · JavaScript
+
 
 ---
 
 ## Areas of Interest
 
-Artificial Intelligence · Data Science · Algorithms · Optimization · Computational Methods
+Artificial Intelligence · Machine Learning · Data Science · Algorithms · Optimization · Computational Methods
 
 ---
 
