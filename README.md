@@ -68,6 +68,13 @@ Personal portfolio showcasing projects, technical skills, and professional work.
 
 **Technologies:** HTML5 · CSS3 · JavaScript
 
+### [Data Structures in C](https://github.com/kelvin-gnanou/data-structures-c)
+
+Implementation of fundamental data structures in C, focusing on modular design and memory management.
+
+**Technologies:** C · Makefile · Clang
+
+
 
 ---
 
