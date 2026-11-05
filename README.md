@@ -4,7 +4,7 @@
 
 # GNANOU KELVIN
 
-**Computer Engineering | AI & Data**
+**Computer Engineering Student**
 
 From algorithms and systems to intelligent solutions.
 
