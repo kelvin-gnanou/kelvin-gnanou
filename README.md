@@ -86,4 +86,4 @@ Artificial Intelligence · Machine Learning · Data Science · Algorithms · Opt
 
 ## Connect
 
-[GitHub](https://github.com/kelvin-gnanou) · [LinkedIn](https://www.linkedin.com/in/kelvin-gnanou-a1755b40b/) · [Portfolio](https://kelvin-gnanou.github.io/) · [Email](mailto:kelvin.gnanou.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kelvin-gnanou-a1755b40b/) · [Portfolio](https://kelvin-gnanou.github.io/) · [Email](mailto:kelvin.gnanou.dev@gmail.com)
