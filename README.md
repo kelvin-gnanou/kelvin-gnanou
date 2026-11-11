@@ -6,8 +6,6 @@
 
 **Computer Engineering Student**
 
-From algorithms and systems to intelligent solutions.
-
 ---
 
 ## Professional Profile
@@ -60,7 +58,7 @@ DEUST – Mathematics and Computer Science | 2024 – 2026
 
 ---
 
-## Projects
+## Featured Projects
 
 ### [Personal Portfolio](https://kelvin-gnanou.github.io)
 
@@ -73,8 +71,6 @@ Personal portfolio showcasing projects, technical skills, and professional work.
 Implementation of fundamental data structures in C, focusing on modular design and memory management.
 
 **Technologies:** C · Makefile · Clang
-
-
 
 ---
 
