@@ -60,7 +60,7 @@ DEUST – Mathematics and Computer Science | 2024 – 2026
 
 ## Featured Projects
 
-### [Personal Portfolio](https://kelvin-gnanou.github.io)
+### [Portfolio](https://kelvin-gnanou.github.io)
 
 Personal portfolio showcasing projects, technical skills, and professional work.
 
