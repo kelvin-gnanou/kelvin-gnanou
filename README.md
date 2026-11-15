@@ -66,11 +66,11 @@ Personal portfolio showcasing projects, technical skills, and professional work.
 
 **Technologies:** HTML5 · CSS3 · JavaScript
 
-### [Data Structures in C](https://github.com/kelvin-gnanou/libds)
+### [libds](https://github.com/kelvin-gnanou/libds)
 
-Implementation of fundamental data structures in C, focusing on modular design and memory management.
+A modular C11 library of fundamental data structures, built with a focus on clear APIs and reliable memory management.
 
-**Technologies:** C · Makefile · Clang
+**Technologies:** C11 · GNU Make · Clang · GCC
 
 ---
 
